@@ -7,5 +7,5 @@ Programs:
 
  - `simca` -- analyzes on-the-wire T=0 communication
 
- - `mirror` -- flips DIRECT/INDIRECT convention
+ - `mirror` -- flips direct/inverse character convention
 
